@@ -169,8 +169,7 @@
 	<Item Calendar="05" Year="2021" DayType="Праздник" Date="20210726" SwapDate=""/>
 	<Item Calendar="05" Year="2021" DayType="Предпраздничный" Date="20210914" SwapDate=""/>
 	<Item Calendar="05" Year="2021" DayType="Праздник" Date="20210915" SwapDate=""/>
-	<Item Calendar="05" Year="2022" DayType="Праздник" Date="20220502" SwapDate="20220504"/>
-	<Item Calendar="05" Year="2022" DayType="Воскресенье" Date="20220504" SwapDate="20220501"/>
+	<Item Calendar="05" Year="2022" DayType="Праздник" Date="20220504" SwapDate=""/>
 	<Item Calendar="05" Year="2022" DayType="Предпраздничный" Date="20220708" SwapDate=""/>
 	<Item Calendar="05" Year="2022" DayType="Праздник" Date="20220709" SwapDate="20220711"/>
 	<Item Calendar="05" Year="2022" DayType="Суббота" Date="20220711" SwapDate="20220709"/>
@@ -209,8 +208,7 @@
 	<Item Calendar="06" Year="2021" DayType="Праздник" Date="20210719" SwapDate=""/>
 	<Item Calendar="06" Year="2021" DayType="Праздник" Date="20210720" SwapDate=""/>
 	<Item Calendar="06" Year="2021" DayType="Праздник" Date="20210721" SwapDate=""/>
-	<Item Calendar="06" Year="2022" DayType="Праздник" Date="20220502" SwapDate="20220504"/>
-	<Item Calendar="06" Year="2022" DayType="Воскресенье" Date="20220504" SwapDate="20220501"/>
+	<Item Calendar="06" Year="2022" DayType="Праздник" Date="20220504" SwapDate=""/>
 	<Item Calendar="06" Year="2022" DayType="Предпраздничный" Date="20220708" SwapDate=""/>
 	<Item Calendar="06" Year="2022" DayType="Праздник" Date="20220709" SwapDate="20220711"/>
 	<Item Calendar="06" Year="2022" DayType="Суббота" Date="20220711" SwapDate="20220709"/>
@@ -584,8 +582,7 @@
 	<Item Calendar="20" Year="2022" DayType="Предпраздничный" Date="20220415" SwapDate=""/>
 	<Item Calendar="20" Year="2022" DayType="Праздник" Date="20220416" SwapDate="20220418"/>
 	<Item Calendar="20" Year="2022" DayType="Суббота" Date="20220418" SwapDate="20220416"/>
-	<Item Calendar="20" Year="2022" DayType="Праздник" Date="20220502" SwapDate="20220504"/>
-	<Item Calendar="20" Year="2022" DayType="Воскресенье" Date="20220504" SwapDate="20220501"/>
+	<Item Calendar="20" Year="2022" DayType="Праздник" Date="20220504" SwapDate=""/>
 	<Item Calendar="20" Year="2022" DayType="Предпраздничный" Date="20220708" SwapDate=""/>
 	<Item Calendar="20" Year="2022" DayType="Праздник" Date="20220709" SwapDate="20220711"/>
 	<Item Calendar="20" Year="2022" DayType="Суббота" Date="20220711" SwapDate="20220709"/>

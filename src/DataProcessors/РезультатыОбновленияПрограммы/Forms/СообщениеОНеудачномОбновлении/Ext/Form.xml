@@ -48,7 +48,7 @@
 				</v8:item>
 			</Title>
 			<Behavior>Usual</Behavior>
-			<Representation>None</Representation>
+			<Representation>NormalSeparation</Representation>
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="СообщениеОбОшибкеExtendedTooltip" id="15"/>
 			<ChildItems>
@@ -81,6 +81,11 @@
 				</LabelDecoration>
 			</ChildItems>
 		</UsualGroup>
+		<Button name="ФормаПроверитьНаличиеИсправлений" id="23">
+			<Type>Hyperlink</Type>
+			<CommandName>Form.Command.ПроверитьНаличиеИсправлений</CommandName>
+			<ExtendedTooltip name="ФормаПроверитьНаличиеИсправленийРасширеннаяПодсказка" id="24"/>
+		</Button>
 		<UsualGroup name="ГруппаТехническаяИнформацияОРезультатахОбновления" id="10">
 			<Title>
 				<v8:item>
@@ -98,7 +103,7 @@
 					<Title formatted="false">
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Техническая информация о результатах обновления</v8:content>
+							<v8:content>Техническая информация</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTipRepresentation>Button</ToolTipRepresentation>
@@ -191,6 +196,15 @@
 			</Title>
 			<Action>ОткрытьВнешнююОбработку</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
+		</Command>
+		<Command name="ПроверитьНаличиеИсправлений" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверить наличие исправлений</v8:content>
+				</v8:item>
+			</Title>
+			<Action>ПроверитьНаличиеИсправлений</Action>
 		</Command>
 	</Commands>
 	<Parameters>

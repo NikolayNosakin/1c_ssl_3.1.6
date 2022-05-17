@@ -30,24 +30,12 @@
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаКомпоновки" id="46">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Компоновки</v8:content>
-				</v8:item>
-			</Title>
 			<Behavior>Usual</Behavior>
 			<Representation>None</Representation>
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаКомпоновкиExtendedTooltip" id="95"/>
 			<ChildItems>
 				<Pages name="ПанельОсновная" id="3">
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Панель основная</v8:content>
-						</v8:item>
-					</Title>
 					<PagesRepresentation>None</PagesRepresentation>
 					<ExtendedTooltip name="ПанельОсновнаяExtendedTooltip" id="103"/>
 					<ChildItems>
@@ -251,12 +239,6 @@
 			</ChildItems>
 		</UsualGroup>
 		<UsualGroup name="РамкаПанелиНавигации" id="51">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Рамка панели навигации</v8:content>
-				</v8:item>
-			</Title>
 			<VerticalStretch>true</VerticalStretch>
 			<Group>Vertical</Group>
 			<VerticalAlign>Bottom</VerticalAlign>
@@ -266,12 +248,6 @@
 			<ChildItems>
 				<Pages name="ПанельНавигации" id="1">
 					<EnableContentChange>true</EnableContentChange>
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Панель навигации</v8:content>
-						</v8:item>
-					</Title>
 					<PagesRepresentation>None</PagesRepresentation>
 					<ExtendedTooltip name="ПанельНавигацииExtendedTooltip" id="122"/>
 					<ChildItems>
@@ -286,12 +262,6 @@
 							<ExtendedTooltip name="СтраницаНавигацииНачалоExtendedTooltip" id="123"/>
 							<ChildItems>
 								<CommandBar name="КоманднаяПанельСлева1" id="150">
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель слева 1</v8:content>
-										</v8:item>
-									</Title>
 									<ExtendedTooltip name="КоманднаяПанельСлева1РасширеннаяПодсказка" id="151"/>
 									<ChildItems>
 										<Button name="КомандаНазад" id="72">
@@ -304,12 +274,6 @@
 								</CommandBar>
 								<CommandBar name="КоманднаяПанельСправа1" id="70">
 									<EnableContentChange>true</EnableContentChange>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель справа 1</v8:content>
-										</v8:item>
-									</Title>
 									<HorizontalLocation>Right</HorizontalLocation>
 									<ExtendedTooltip name="КоманднаяПанельСправа1РасширеннаяПодсказка" id="124"/>
 									<ChildItems>
@@ -340,22 +304,10 @@
 							<ExtendedTooltip name="СтраницаНавигацииОжиданиеExtendedTooltip" id="141"/>
 							<ChildItems>
 								<CommandBar name="КоманднаяПанельСлева4" id="165">
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель слева 4</v8:content>
-										</v8:item>
-									</Title>
 									<ExtendedTooltip name="КоманднаяПанельСлева4РасширеннаяПодсказка" id="166"/>
 								</CommandBar>
 								<CommandBar name="КоманднаяПанельСправа4" id="85">
 									<EnableContentChange>true</EnableContentChange>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель справа 4</v8:content>
-										</v8:item>
-									</Title>
 									<HorizontalLocation>Right</HorizontalLocation>
 									<ExtendedTooltip name="КоманднаяПанельСправа4РасширеннаяПодсказка" id="142"/>
 									<ChildItems>
@@ -379,12 +331,6 @@
 							<ExtendedTooltip name="СтраницаНавигацииОшибкаРасширеннаяПодсказка" id="129"/>
 							<ChildItems>
 								<CommandBar name="КоманднаяПанельСлева2" id="155">
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель слева 2</v8:content>
-										</v8:item>
-									</Title>
 									<ExtendedTooltip name="КоманднаяПанельСлева2РасширеннаяПодсказка" id="156"/>
 									<ChildItems>
 										<Button name="КомандаВНачало" id="196">
@@ -396,12 +342,6 @@
 								</CommandBar>
 								<CommandBar name="КоманднаяПанельСправа2" id="75">
 									<EnableContentChange>true</EnableContentChange>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель справа 2</v8:content>
-										</v8:item>
-									</Title>
 									<HorizontalLocation>Right</HorizontalLocation>
 									<ExtendedTooltip name="КоманднаяПанельСправа2РасширеннаяПодсказка" id="130"/>
 									<ChildItems>
@@ -431,22 +371,10 @@
 							<ExtendedTooltip name="СтраницаНавигацииОкончаниеExtendedTooltip" id="135"/>
 							<ChildItems>
 								<CommandBar name="КоманднаяПанельСлева3" id="160">
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель слева 3</v8:content>
-										</v8:item>
-									</Title>
 									<ExtendedTooltip name="КоманднаяПанельСлева3РасширеннаяПодсказка" id="161"/>
 								</CommandBar>
 								<CommandBar name="КоманднаяПанельСправа3" id="80">
 									<EnableContentChange>true</EnableContentChange>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Командная панель справа 3</v8:content>
-										</v8:item>
-									</Title>
 									<HorizontalLocation>Right</HorizontalLocation>
 									<ExtendedTooltip name="КоманднаяПанельСправа3РасширеннаяПодсказка" id="136"/>
 									<ChildItems>
