@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
-	<Configuration uuid="c9997719-b88a-4898-8eeb-bc5f0e030937">
+	<Configuration uuid="0479ec3a-155b-4805-9653-1f8eef47f6c2">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>3218c3af-a5d4-4659-806d-7bab18c60016</xr:ObjectId>
+				<xr:ObjectId>9bc06270-f0e9-43a9-8693-4f440cefe1b3</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>d360a007-9bb9-4116-ab52-7f91358c14c8</xr:ObjectId>
+				<xr:ObjectId>681db7ee-5861-42c5-9932-cd8574c8e36d</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>54410f05-a9e2-4ecb-9212-2d789dbc0169</xr:ObjectId>
+				<xr:ObjectId>8241b7a6-8c06-4146-9e17-5766fa8372be</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>577724c7-68c5-46eb-9dfb-1a695c8031b8</xr:ObjectId>
+				<xr:ObjectId>86974188-6379-4b9a-a893-327192ba1699</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>1decf264-403f-422a-b962-42d1eb917eac</xr:ObjectId>
+				<xr:ObjectId>3718cbbb-5648-48fd-99bd-f3fe57df2310</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>9571e2df-4223-4bc2-820f-e58e9d0a4b70</xr:ObjectId>
+				<xr:ObjectId>db439ea0-3fae-496b-948d-f64f5949a813</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>af8d915e-17f3-42f9-9822-236257dc37bb</xr:ObjectId>
+				<xr:ObjectId>017752df-8618-42c4-bf9d-09a5f65744e5</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -53,7 +53,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.6.227</Version>
+			<Version>3.1.6.245</Version>
 			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -829,6 +829,7 @@
 			<SessionParameter>ОбластьДанныхЗначение</SessionParameter>
 			<SessionParameter>ОбластьДанныхИспользование</SessionParameter>
 			<SessionParameter>ОбновитьВерсиюДатЗапретаИзмененияПослеЗагрузкиДанных</SessionParameter>
+			<SessionParameter>ОбновлениеСправочниковИдентификаторов</SessionParameter>
 			<SessionParameter>ОбщиеПараметрыШаблоновОграниченияДоступа</SessionParameter>
 			<SessionParameter>ОграничениеДоступаНаУровнеЗаписейИспользуется</SessionParameter>
 			<SessionParameter>ОграничениеДоступаНаУровнеЗаписейУниверсально</SessionParameter>
@@ -1468,7 +1469,7 @@
 			<XDTOPackage>DataArtefacts_Files_1_0_0_1</XDTOPackage>
 			<XDTOPackage>DataArtefacts_ServiceUsers_1_0_0_1</XDTOPackage>
 			<XDTOPackage>DataDump_1_0_2_1</XDTOPackage>
-			<XDTOPackage>EnterpriseData_1_10_7</XDTOPackage>
+			<XDTOPackage>EnterpriseData_1_10_8</XDTOPackage>
 			<XDTOPackage>EnterpriseData_1_2_3</XDTOPackage>
 			<XDTOPackage>EnterpriseData_1_3_20</XDTOPackage>
 			<XDTOPackage>EnterpriseData_1_4_20</XDTOPackage>

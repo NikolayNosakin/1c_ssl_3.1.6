@@ -366,6 +366,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.КаталогВременныхФайловДляWindows</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДлительныеОперации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.СтандартныеПодсистемыВАвтономномРежиме</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ОбновлениеСправочниковИдентификаторов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
